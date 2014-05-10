@@ -1,0 +1,15 @@
+/**
+ * Author : Chris Thomas
+ */
+	.mceContentBody {
+		background:#2A211C !important;
+		color:#BDAE9D !important;
+	}
+
+	.fullscreen-overlay {
+		background:#2A211C !important;
+	}
+
+	.wp-fullscreen-title {
+		color:#BDAE9D !important;
+	}

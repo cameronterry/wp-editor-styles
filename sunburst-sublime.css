@@ -1,0 +1,16 @@
+/**
+ * Author : Stanley Rost
+ * Comment : (π) Soryu, 2005
+ */
+	.mceContentBody {
+		background:#000000 !important;
+		color:#AEAEAE !important;
+	}
+
+	.fullscreen-overlay {
+		background:#000000 !important;
+	}
+
+	.wp-fullscreen-title {
+		color:#AEAEAE !important;
+	}

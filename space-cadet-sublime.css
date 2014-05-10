@@ -1,0 +1,15 @@
+/**
+ * Author : Alex Ross
+ */
+	.mceContentBody {
+		background:#0D0D0D !important;
+		color:#DDE6CF !important;
+	}
+
+	.fullscreen-overlay {
+		background:#0D0D0D !important;
+	}
+
+	.wp-fullscreen-title {
+		color:#DDE6CF !important;
+	}

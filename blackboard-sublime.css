@@ -1,0 +1,16 @@
+/**
+ * Author : Domenico Carbotta
+ */
+
+	.mceContentBody {
+		background:#0C1021 !important;
+		color:#F8F8F8 !important;
+	}
+
+	.fullscreen-overlay {
+		background:#0C1021 !important;
+	}
+
+	.wp-fullscreen-title {
+		color:#F8F8F8 !important;
+	}

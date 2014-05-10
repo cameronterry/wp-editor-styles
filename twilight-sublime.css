@@ -1,0 +1,16 @@
+/**
+ * Author : Michael Sheets
+ */
+
+	.mceContentBody {
+		background:#141414 !important;
+		color:#F8F8F8 !important;
+	}
+
+	.fullscreen-overlay {
+		background:#141414 !important;
+	}
+
+	.wp-fullscreen-title {
+		color:#F8F8F8 !important;
+	}

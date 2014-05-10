@@ -1,0 +1,16 @@
+/**
+ * Author : William D. Neumann
+ */
+
+	.mceContentBody {
+		background:#200020 !important;
+		color:#D0D0FF !important;
+	}
+
+	.fullscreen-overlay {
+		background:#200020 !important;
+	}
+
+	.wp-fullscreen-title {
+		color:#D0D0FF !important;
+	}
